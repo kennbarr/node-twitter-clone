@@ -1,0 +1,20 @@
+{
+  "name": "node-twitter-clone",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-sass-middleware": "^0.9.8",
+    "nunjucks": "^2.4.2",
+    "strftime": "^0.9.2"
+  },
+  "scripts": {
+    "start": "node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennbarr/node-twitter-clone.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
